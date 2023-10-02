@@ -1,0 +1,21 @@
+<doctype html>
+    <html>
+        <head>
+            <title>
+                Personal Portfolio
+            </title>
+        <body>
+            <h1 style="color:blue; background-color:white">
+                Madison Ruiz
+            </h1 style=>
+                <h3 style="color:darkblue; background-color:azure">
+                NJIT mar276 B.Arch Program
+                </h3 style=>
+                    <p style="color:black">
+                        Hello, my name is Madison, but I prefer to be called Maddie. <br> 
+                        I was born in jersey and then a few years ago I moved to Pennsylvania. <br>
+                        I love the arts, but decided that pursuing an art degree is kinda useless. <br>
+                        So here I am at NJIT pursuing an architecture degree. 
+                    </p>
+                    <a href="https://design.njit.edu/">Hillier College of Architecture and Design</a> 
+                    <img src="https://connect-njit-edu.cdn.technolutions.net/www/images/Hillier%20College%20Entrance_0.png">
