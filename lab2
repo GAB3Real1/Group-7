@@ -1,0 +1,81 @@
+<doctype html>
+    <html>
+        <head>
+            <title>
+                Personal Portfolio
+            </title>
+        <body>
+            <h1 style="color:blue; background-color:white">
+                Madison Ruiz
+            </h1 style=>
+                <h3 style="color:darkblue; background-color:azure">
+                NJIT mar276 B.Arch Program
+                </h3 style=>
+                    <p style="color:black">
+                        Hello, my name is Madison, but I prefer to be called Maddie. <br> 
+                        I was born in jersey and then a few years ago I moved to Pennsylvania. <br>
+                        I love the arts, but decided that pursuing an art degree is kinda useless. <br>
+                        So here I am at NJIT pursuing an architecture degree. 
+                    </p>
+                    <a href="https://design.njit.edu/">Hillier College of Architecture and Design</a> 
+                    <img src="https://connect-njit-edu.cdn.technolutions.net/www/images/Hillier%20College%20Entrance_0.png">
+                <div>
+                    <table style="width: 60%; font-size: 100%; border: 2px solid black">
+                        <tr>
+                            <th>Experience
+                            <th>Education
+                            <th>Skills
+                        </tr>
+                        <tr style="width 100%; border: 2px solid black">
+                            <td>No experience
+                            <td>High School Diploma
+                            <td>Can cook
+                        </tr>
+                        <tr>
+                            <td>None</td>
+                            <td>High School Diploma
+                            <td>Can cook
+                        </tr>
+                    </table>
+                </div>
+                <br>
+                <div>
+                    <form style="margin-top: 100px">
+                        <label for="Username">Username:
+                        <input type="text"placeholder="Username">
+                        <br>
+                        <label for="First Name">First Name:
+                        <input type="First Name"placeholder="First Name">
+                        <br>
+                        <label for="Last Name">Last Name:</label>
+                        <input type="Last Name"placeholder="Last Name">
+                        <br>
+                        <label for="Email">Email:</label>
+                        <input type="Email"placeholder="Email">
+                        <br>
+                        <input type="checkbox"name="Major">Math
+                        <input type="checkbox"name="Major">Architecture
+                        <input type="checkbox"name="Major">Computer Science
+                        <br>
+
+                        <input type="radio"name="Major">Math
+                        <input type="radio" name="Major">Architecture
+                        <input type="radio"name="Major">Computer Science
+                        <br>
+
+                        <input type="submit">
+                    </form>
+                </div>
+                <div style="margin-top: 2%">
+                    <ul>
+                        <li><a href="#">Arch110
+                        <li><a href="#">Arch195
+                        <li><a href="#">English101
+                        <li><a href="#">Math107
+                        <li><a href="#">CS104
+                        <li><a href="#">FYSSEM
+                    </ul>
+                </div>
+            </body>
+        </head>
+    </html>
