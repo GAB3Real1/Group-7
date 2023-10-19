@@ -1,0 +1,21 @@
+<DOCTYPE html>
+    <html>
+        <head>
+            <title>
+                EcoArchive America
+            </title>
+        <body>
+            <h1 style="color: red; background-color: white">
+                Our Mission
+            </h1 style=>
+        <p style="color:black">
+            Our mission is to provide people with an interactive and visual way to learn about endangered and invasive species around <br>
+            the United States of America for better education and awareness of the public. Our website provides an interactive world <br>
+            map to use as a reference to ecologists, zoologists, and the general public alike. Our map shows regions to find endangered <br>
+            species as well as archive general information about each species. Additionally, for people who capture invasive species to <br>
+            help the environment, the website would mark regions most affected by invasive species.
+        </p>
+        <img src="/Users/madisonruiz/Desktop/Screenshot 2023-10-18 at 9.55.23 PM.png"
+        </body>
+        </head>
+    </html>
